@@ -8,7 +8,7 @@ Have you ever had questions about design or just wanted to learn design from a d
 
 The Design for Developers Wiki is a personal effort and you can help me to build it by [asking your design questions]().
 
-<!-- [**Live Demo →**](https://nextra-docs-template.vercel.app) -->
+[**Enter the Design for Developers Wiki →**](pages/index.mdx)
 
 ## How the wiki works?
 
@@ -42,7 +42,7 @@ That's simple!
 
 ## Other comments
 
-🌟 I am a single person, so it may take a few days to answer your question.
-🌟 By the end of the day, I am just an adverturer designer in the Github world, please be patient as I am still learning about collaboration, open source and all this craziness. :P
-🌟 There's a huge chance you will find a few English errors in this project, as this is not my primary language. I will be really glad if you open an issue with the "enhancement" label reporting the error.
-🌟 If your company is looking for high quality design with outstangin level of excelence, I am a Freelance UI/UX Designer, feel free to [drop me a message](https://sheisacreative.com/contact).
+- 🌟 I am a single person, so it may take a few days to answer your question.
+- 🌟 By the end of the day, I am just an adverturer designer in the Github world, please be patient as I am still learning about collaboration, open source and all this craziness. :P
+- 🌟 There's a huge chance you will find a few English errors in this project, as this is not my primary language. I will be really glad if you open an issue with the "enhancement" label reporting the error.
+- 🌟 If your company is looking for high quality design with outstangin level of excelence, I am a Freelance UI/UX Designer, feel free to [drop me a message](https://sheisacreative.com/contact).

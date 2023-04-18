@@ -1,16 +1,18 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
+  "index": "About this Wiki",
+  "the-non-box-model": "Non-box model",
   "wow": "Testing :)",
   "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "linkedin": {
+    "title": "Linkedin",
+    "type": "page",
+    "href": "https://www.linkedin.com/in/sheisacreative/",
+    "newWindow": true
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://sheisacreative.com/contact/",
     "newWindow": true
   }
 }

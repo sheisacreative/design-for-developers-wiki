@@ -6,7 +6,7 @@ Have you ever had questions about design or just wanted to learn design from a d
 
 🌟 It's your time to shine! 🌟
 
-The Design for Developers Wiki is a personal effort and you can help me to build it by [asking your design questions]().
+The Design for Developers Wiki is a personal effort and you can help me to build it by [asking your design questions](#what-kind-of-questions-i-can-ask?).
 
 [**Enter the Design for Developers Wiki →**](pages/index.mdx)
 

@@ -3,17 +3,16 @@
 Where developers can learn about Design and designers can learn about code.
 
 <br>
-
-   <a href="https://www.linkedin.com/in/sheisacreative/">
-      <img alt="sheisacreative" src="https://img.shields.io/badge/-sheisacreative-4c3add?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
+ <a href="https://www.linkedin.com/in/sheisacreative/">
+    <img alt="sheisacreative" src="https://img.shields.io/badge/-sheisacreative-4c3add?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/sheisacreative/quack-quotes/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sheisacreative/design-for-developers-wiki?color=4c3add">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sheisacreative/design-for-developers-wiki?color=4c3add">
+  </a>
+  <a href="https://github.com/sheisacreative/design-for-developers-wiki/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/sheisacreative/design-for-developers-wiki?color=4c3add&logo=github">
   </a>
   <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/sheisacreative/quack-quotes?color=4c3add" />
-  <a href="https://github.com/sheisacreative/quack-quotes/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/sheisacreative/quack-quotes?color=4c3add&logo=github">
-  </a>
 
 <br>
   <sub>Design Wiki. Built with 💛 by
@@ -34,13 +33,12 @@ Where developers can learn about Design and designers can learn about code.
 
 # 📌 Table of Contents
 
-- [📩 Send your question](#-send-your-design-questions)
-- [💻 How it works](#-how-this-wiki-works)
-- [🚀 Features](#-features)
-- [🚧 How to run](#-how-to-run)
-- [🐛 Issues](#-issues)
-- [🎉 Contributing](#-contributing)
-- [📕 License](#-license)
+- [📩 Send your design questions](#-send-your-design-questions)
+- [❓ How this wiki works](#-how-this-wiki-works)
+- [🤔 Why this wiki?](#-why-this-wiki)
+- [➕ Additional knowledge](#-additional-knowledge)
+- [🤔 Who is Maiane?](#-who-is-maiane)
+- [🗨️ Other comments](#-other-comments)
 
 <br>
 
@@ -50,7 +48,7 @@ Where developers can learn about Design and designers can learn about code.
 2. Use the label "question" to indicate that it is a question.
 3. Make sure your question is clear. You can even share an image to demonstrate it.
 
-`⚠️ Note: please, don't show me your screen and ask if you design is good. For this repo to work, I am looking for generic cases as they can benefit more people. `
+`🙊 Note: please, don't show me your screen and ask if your design is good. For this repo to work, I am looking for generic cases as they can benefit more people. `
 
 <br>
 

@@ -1,6 +1,6 @@
 # Design for Developers Wiki
 
-Where developers can learn about Design and designers can learn about code.
+Where developers learn about Design and designers can learn about code.
 
 <br>
  <a href="https://www.linkedin.com/in/sheisacreative/">
@@ -12,7 +12,6 @@ Where developers can learn about Design and designers can learn about code.
   <a href="https://github.com/sheisacreative/design-for-developers-wiki/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/sheisacreative/design-for-developers-wiki?color=4c3add&logo=github">
   </a>
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/sheisacreative/quack-quotes?color=4c3add" />
 
 <br>
   <sub>Design Wiki. Built with 💛 by
@@ -36,9 +35,9 @@ Where developers can learn about Design and designers can learn about code.
 - [📩 Send your design questions](#-send-your-design-questions)
 - [❓ How this wiki works](#-how-this-wiki-works)
 - [🤔 Why this wiki?](#-why-this-wiki)
-- [➕ Additional knowledge](#-additional-knowledge)
+- [🎈 Additional context](#-additional-knowledge)
 - [🤔 Who is Maiane?](#-who-is-maiane)
-- [🗨️ Other comments](#-other-comments)
+- [➕ More info](#-more-info)
 
 <br>
 
@@ -57,7 +56,7 @@ Where developers can learn about Design and designers can learn about code.
 - You ask a question, I answer.
 - If the question seems like an opportunity for other people to learn from it I will add the answer to the wiki.
 - I'll also add general knowledge I've learned over the more than 10 years as a designer.
-- With time we will have a trustfull source to learn and evolve the conversation beyond design and code.
+- With time we will have a trustworthy source to learn and evolve the conversation beyond design and code.
 
 <br>
 
@@ -69,7 +68,7 @@ Where developers can learn about Design and designers can learn about code.
 
 <br>
 
-# ➕ Additional knowledge
+# 🎈 Additional context
 
 - As an UI/UX Designer, I am interested in how developers think while they design.
 - I will also be adding content to the wiki based on my own knowledge and experience.
@@ -79,13 +78,13 @@ Where developers can learn about Design and designers can learn about code.
 
 # 🤔 Who is Maiane?
 
-- A Design with over 10 years experience.
-- Freelance UI/UX Design (yep, your company can [hire my services](https://sheisacreative.com/))
-- Someone who just like to study code as a Hobby.
+- A Designer with over 10 years experience.
+- Freelance UI/UX Designer (yep, your company can [hire my services](https://sheisacreative.com/))
+- Someone who just likes to study code as a hobby.
 
 <br>
 
-# 🗨️ Other comments
+# ➕ More info
 
 - There are huge chances you will find a few English errors in this project. As this is not my primary language, I will be really glad if you open an issue with the "enhancement" label reporting the error.
 - If your company is looking for high quality design with outstanding level of excelence, I am a Freelance UI/UX Designer, feel free to [drop me a message](https://sheisacreative.com/contact).

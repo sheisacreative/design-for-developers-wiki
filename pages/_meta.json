@@ -1,8 +1,7 @@
 {
   "index": "About this Wiki",
-  "the-non-box-model": "Non-box model",
-  "wow": "Testing :)",
-  "advanced": "Advanced (A Folder)",
+  "box": "01 The non-box model",
+  "ids": "02 Designing for IDs",
   "linkedin": {
     "title": "Linkedin",
     "type": "page",

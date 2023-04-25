@@ -1,0 +1,25 @@
+.box {
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem 2rem 1rem 1rem;
+  border-radius: 0.5rem;
+  background-color: rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 0.5rem 0;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.designer {
+  background-color: rgba(180, 0, 255, 0.1);
+  border: 1px solid rgba(180, 0, 255, 0.2);
+}
+
+.developer {
+  background-color: rgba(0, 255, 240, 0.1);
+  border: 1px solid rgba(0, 255, 240, 0.3);
+}

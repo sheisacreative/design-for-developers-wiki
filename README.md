@@ -1,5 +1,10 @@
 # Design for Developers Wiki
 
+A place where developers can learn about Design.
+A place where Designers can learn about code.
+
+---
+
 Hey, Developer!
 
 Have you ever had questions about design or just wanted to learn design from a designer who has some coding knowledge?

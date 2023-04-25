@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   docsRepositoryBase:
     "https://github.com/sheisacreative/design-for-developers-wiki",
   footer: {
-    text: "Created by @sheisacreative",
+    text: "Created by @sheisacreative. Using Nextra template.",
   },
 };
 
